@@ -6,8 +6,8 @@ module DefaultPageContentConcern
   end
 
   def set_title
-    @page_title = "DevcampPortfolio | My Portfolio Website"
-    @seo_keywords = "DevcampPortfolio"
+    @page_title = "HaikalHusseinPortfolio | My Portfolio Website"
+    @seo_keywords = "HaikalHusseinPortfolio"
   end
 
 end
